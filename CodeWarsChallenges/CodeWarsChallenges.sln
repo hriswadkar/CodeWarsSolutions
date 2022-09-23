@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsChallenges", "CodeWarsChallenges.csproj", "{8E132001-DE01-47F5-8370-929820FA4AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripCommentsChallenge", "..\StripCommentsChallenge\StripCommentsChallenge.csproj", "{CE14242A-07FB-487C-A7C9-62E9E6BC407B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E132001-DE01-47F5-8370-929820FA4AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E132001-DE01-47F5-8370-929820FA4AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E132001-DE01-47F5-8370-929820FA4AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E132001-DE01-47F5-8370-929820FA4AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE14242A-07FB-487C-A7C9-62E9E6BC407B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE14242A-07FB-487C-A7C9-62E9E6BC407B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE14242A-07FB-487C-A7C9-62E9E6BC407B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE14242A-07FB-487C-A7C9-62E9E6BC407B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {686EFCE1-6B1E-4225-857D-42B0AF85BEAE}
+	EndGlobalSection
+EndGlobal
